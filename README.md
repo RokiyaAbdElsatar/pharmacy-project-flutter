@@ -1,6 +1,6 @@
-# pharmacy_project
+# pharmacy_project(from Jun 22, 2024)
 
-A Simple ecommerce app.
+A Simple ecommerce app to buy medicine.
 
 ## Getting Started
 
