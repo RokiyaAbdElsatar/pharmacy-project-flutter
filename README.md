@@ -15,7 +15,6 @@ https://github.com/user-attachments/assets/ea1de70e-78ad-41cd-9ad6-3a715d31f065
 - Search functionality to find specific products
 - Add medicines to the cart
 - Place orders with ease
-- User-friendly interface with responsive design
 
 ## 📂 Project Structure
 
